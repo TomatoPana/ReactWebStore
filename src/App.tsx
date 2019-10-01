@@ -1,9 +1,14 @@
 import React from 'react';
-import TextFields from './components/TextFields';
-import LoginController from './components/LoginComponent';
+import AppRouter from './AppRouter';
+import { BrowserRouter } from "react-router-dom";
+import { CssBaseline } from '@material-ui/core';
+
 const App: React.FC = () => {
   return (
-    <LoginController />
+    <BrowserRouter>
+      <CssBaseline />
+      <AppRouter />
+    </BrowserRouter>
   );
 }
 

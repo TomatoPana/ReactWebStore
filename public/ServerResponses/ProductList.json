@@ -1,0 +1,33 @@
+{
+  "statusCode": 200,
+  "pages": 5,
+  "page": 1,
+  "elements": 10,
+  "result" : [
+    {
+      "name" : "Cupcake",
+      "calories": 305, 
+      "fat": 3.7, 
+      "carbs": 67, 
+      "protein": 4.3
+    },{
+      "name" : "Cupcake",
+      "calories": 305, 
+      "fat": 3.7, 
+      "carbs": 67, 
+      "protein": 4.3
+    },{
+      "name" : "Cupcake",
+      "calories": 305, 
+      "fat": 3.7, 
+      "carbs": 67, 
+      "protein": 4.3
+    },{
+      "name" : "Cupcake",
+      "calories": 305, 
+      "fat": 3.7, 
+      "carbs": 67, 
+      "protein": 4.3
+    }
+  ]
+}

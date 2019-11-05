@@ -1,3 +1,5 @@
+/// <reference path="../@types/index.d.ts"/>
+
 import React from 'react';
 import { makeStyles, useTheme } from '@material-ui/core/styles';
 import MobileStepper from '@material-ui/core/MobileStepper';
